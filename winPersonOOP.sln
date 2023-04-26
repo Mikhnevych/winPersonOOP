@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winPersonOOP", "winPersonOOP\winPersonOOP.csproj", "{C14D45F3-24D7-40E1-AFC5-451F5B0040EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14D45F3-24D7-40E1-AFC5-451F5B0040EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14D45F3-24D7-40E1-AFC5-451F5B0040EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14D45F3-24D7-40E1-AFC5-451F5B0040EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14D45F3-24D7-40E1-AFC5-451F5B0040EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DABA77BE-1AA3-41DD-B84E-0AFEE7801742}
+	EndGlobalSection
+EndGlobal
